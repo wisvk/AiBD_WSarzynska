@@ -1,0 +1,5 @@
+Najpierw wczytałam plik zawierający dane. 
+Następnie zajęłam się obrobieniem danych zawartych w każdej kolumnie w celu zwiększenia przejrzystości.
+Połączyłam zadane trzy kolumny w jedną nową tabelę, a potem usunęłam je z poprzedniej.
+Zmieniłam też nazwy kolumn na krótsze i bardziej zwięzłe. 
+Na koniec zimportowałam obrobione dane jako nowy plik. 
